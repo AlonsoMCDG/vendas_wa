@@ -1,6 +1,7 @@
-# hello-world
-Repositório Olá mundo para tutorial do Git
+# venda_wa
+Esta é uma página web para um sistema de venda de produtos desenvolvida no âmbito do projeto WEB ACADEMY da Universidade Federal do Acre
 
-Este é um repositório de exemplo
-
-Este repositório é construído passo a passo no tutorial
+Desenvolvedores:
+- Jair Figueiredo
+- Alonso Martins
+- E todos os demais alunos...
